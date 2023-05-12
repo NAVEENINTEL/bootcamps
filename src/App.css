@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.aboutus {
+  margin-top: 60px;
+}
+
+.navbar-nav .active .nav-link {
+  color: black;
+  font-weight: bold;
+}
+
+.sticky-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.whatsapp-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.whatsapp-icon:hover {
+  background-color: #128c7e;
+  transform: scale(1.1);
+}
+
+

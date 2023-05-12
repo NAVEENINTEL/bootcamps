@@ -1,0 +1,65 @@
+Day 1-5: Python Fundamentals and Data Structures
+
+Introduction to Python programming language
+Variables, data types, and basic operators
+Control flow statements (if, else, loops)
+Functions and modules
+Lists, tuples, dictionaries, and sets
+Strings and string manipulation
+File handling
+Day 6-8: Object-Oriented Programming (OOP)
+
+Introduction to OOP concepts (classes, objects, inheritance, polymorphism)
+Creating classes and objects in Python
+Encapsulation, abstraction, and information hiding
+Inheritance and method overriding
+Polymorphism and method overloading
+Understanding the importance of OOP in software development
+Day 9-12: Algorithms and Data Structures
+
+Introduction to common data structures (arrays, linked lists, stacks, queues, trees, graphs)
+Implementing data structures in Python
+Basic algorithms (searching, sorting)
+Time and space complexity analysis
+Algorithmic problem-solving techniques
+Recursion and dynamic programming
+Day 13-17: Python Libraries and Frameworks
+
+Introduction to popular Python libraries and frameworks used in software development
+NumPy and Pandas for data manipulation and analysis
+Matplotlib and Seaborn for data visualization
+Flask or Django for web development
+Scikit-learn for machine learning
+Introduction to unit testing with the unittest framework
+Day 18-22: Database and SQL
+
+Introduction to databases and SQL (Structured Query Language)
+Understanding database management systems (DBMS)
+Creating and manipulating databases using SQLite or MySQL
+Querying databases using SQL statements (SELECT, INSERT, UPDATE, DELETE)
+Joining tables and performing advanced queries
+Indexing and optimizing database performance
+Day 23-26: System Design and Architecture
+
+Introduction to system design principles
+Understanding the client-server architecture
+Scalability, availability, and fault tolerance concepts
+Designing RESTful APIs
+Caching strategies and load balancing
+Database design and normalization
+System design case studies and practice problems
+Day 27-29: Interview Preparation and Practice
+
+Understanding the interview process and common interview questions
+Behavioral and situational interview preparation
+Technical interview question patterns
+Practicing coding problems and algorithmic challenges
+Mock interviews with peers or mentors
+Reviewing and refining interview strategies
+Day 30: Final Review and Mock Interview
+
+Recap of key concepts and topics covered throughout the curriculum
+Revisit challenging areas and clarify doubts
+Conduct a mock interview simulating a real technical interview scenario
+Analyze the performance and identify areas for improvement
+Focus on communication skills, problem-solving approaches, and time management
