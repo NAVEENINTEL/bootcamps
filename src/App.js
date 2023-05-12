@@ -1,6 +1,5 @@
 
 import React, { useState } from 'react';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.css';
 import AboutUs from './AboutUs';
